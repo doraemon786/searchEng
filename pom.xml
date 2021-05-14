@@ -17,7 +17,7 @@
 	<name>searchEng</name>
 	<description>Demo project to showcase ajax call impl</description>
 	<properties>
-		<java.version>11</java.version>
+	<!-- 	<java.version>11</java.version> -->
 	</properties>
 	<dependencies>
 		<dependency>
